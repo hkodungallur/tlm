@@ -98,7 +98,6 @@ ENDIF(NOT CURL)
 
 INCLUDE(FindCouchbaseOpenSSL)
 INCLUDE(FindCouchbaseLibevent)
-INCLUDE(FindCouchbaseCurl)
 INCLUDE(FindCouchbaseIcu)
 INCLUDE(FindCouchbaseSnappy)
 INCLUDE(FindCouchbaseLua)
